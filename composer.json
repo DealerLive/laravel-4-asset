@@ -2,7 +2,7 @@
     "name": "dragonfire1119/asset",
     "description": "Laravel 4 Assets Manager",
     "keywords": ["laravel", "laravel4", "asset", "assets"],
-    "homepage": "https://github.com/dragonfire1119/laravel4-asset",
+    "homepage": "https://github.com/dragonfire1119/laravel-4-asset",
     "type": "library",
     "license": "MIT",
     "authors": [
