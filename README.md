@@ -7,7 +7,7 @@ Add to your ``composer.json`` file ``"require"``:
 "dragonfire1119/asset": "dev-master"
 ```
 
-Add the following to your ``app/config/app.php :
+Add the following to your ``app/config/app.php`` :
 
 1. Service Provider array ``'Dragonfire1119\Asset\AssetServiceProvider',``
 2. Aliases array ``'Asset' => 'Dragonfire1119\Asset\Facades\Asset',``
