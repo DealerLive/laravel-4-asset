@@ -14,3 +14,7 @@ Add the following to your ``app/config/app.php`` :
 
 ## Documentation
 <http://three.laravel.com/docs/views/assets>
+
+## Contributing
+
+If you have a idea on making this better feel free to fork it.
