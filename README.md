@@ -11,3 +11,6 @@ Add the following to your ``app/config/app.php`` :
 
 1. Service Provider array ``'Dragonfire1119\Asset\AssetServiceProvider',``
 2. Aliases array ``'Asset' => 'Dragonfire1119\Asset\Facades\Asset',``
+
+## Documentation
+<http://three.laravel.com/docs/views/assets>
